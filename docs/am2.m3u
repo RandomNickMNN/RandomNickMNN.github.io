@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 tvg-name="Հ1" tvg-logo="http://tv.team/images/chIcons/1077.png" timeshift="3", Հ1
 #EXTGRP:Armenia
 http://1.1usd.tv:34000/ch1077/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH33-GL_TNHGWnjRodgav_Mfnw2LZCh-iB90RvvoDkxy
@@ -17,7 +18,7 @@ http://1.1usd.tv:34000/ch1083/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWkt
 #EXTINF:0 tvg-name="5 TV" tvg-logo="http://tv.team/images/chIcons/1079.png" timeshift="3", 5 TV
 #EXTGRP:Armenia
 http://1.1usd.tv:34000/ch1079/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNsQcIF-pfEPl5wJh1XYg0KOP2Y8-skHjJjq4aC37eI0
-#EXTINF:0 tvg-name="ATV HD" tvg-logo="http://tv.team/images/chIcons/576.png" timeshift="3", ATV HD
+#EXTINF:0 tvg-name="ATV" tvg-logo="http://tv.team/images/chIcons/576.png" timeshift="3", ATV
 #EXTGRP:Armenia
 http://1.1usd.tv:34000/ch576/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKhpN4QKEqhrFoxgOnClJu9oh1iA5LuX5bJJ9wDOdY5C
 #EXTINF:0 tvg-name="AABC" tvg-logo="http://tv.team/images/chIcons/1081.png" timeshift="0", AABC
@@ -26,7 +27,7 @@ http://1.1usd.tv:34000/ch1081/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWkt
 #EXTINF:0 tvg-name="Kentron" tvg-logo="http://tv.team/images/chIcons/1076.png" timeshift="3", Kentron
 #EXTGRP:Armenia
 http://1.1usd.tv:34000/ch1076/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMhJYsWPBTgZVo8XeyWxWesveOjuF6s_O2yEpNx40qfk
-#EXTINF:0 tvg-name="Shant Serial HD" tvg-logo="http://tv.team/images/chIcons/1080.png" timeshift="3", Shant Serial HD
+#EXTINF:0 tvg-name="Shant Serial" tvg-logo="http://tv.team/images/chIcons/1080.png" timeshift="3", Shant Serial
 #EXTGRP:Armenia
 http://1.1usd.tv:34000/ch1080/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHF8oVU_kQpB83-XWfr6hFUm1bb5fuEFI1H9GaRK3jGk
 #EXTINF:0 tvg-name="Shant Film" tvg-logo="http://tv.team/images/chIcons/1075.png" timeshift="3", Shant Film
